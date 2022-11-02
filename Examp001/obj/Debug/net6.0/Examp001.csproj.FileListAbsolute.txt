@@ -1,0 +1,15 @@
+C:\HW2\helloworld2\Examp001\obj\Debug\net6.0\Examp001.csproj.AssemblyReference.cache
+C:\HW2\helloworld2\Examp001\obj\Debug\net6.0\Examp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\HW2\helloworld2\Examp001\obj\Debug\net6.0\Examp001.AssemblyInfoInputs.cache
+C:\HW2\helloworld2\Examp001\obj\Debug\net6.0\Examp001.AssemblyInfo.cs
+C:\HW2\helloworld2\Examp001\obj\Debug\net6.0\Examp001.csproj.CoreCompileInputs.cache
+C:\HW2\helloworld2\Examp001\bin\Debug\net6.0\Examp001.exe
+C:\HW2\helloworld2\Examp001\bin\Debug\net6.0\Examp001.deps.json
+C:\HW2\helloworld2\Examp001\bin\Debug\net6.0\Examp001.runtimeconfig.json
+C:\HW2\helloworld2\Examp001\bin\Debug\net6.0\Examp001.dll
+C:\HW2\helloworld2\Examp001\bin\Debug\net6.0\Examp001.pdb
+C:\HW2\helloworld2\Examp001\obj\Debug\net6.0\Examp001.dll
+C:\HW2\helloworld2\Examp001\obj\Debug\net6.0\refint\Examp001.dll
+C:\HW2\helloworld2\Examp001\obj\Debug\net6.0\Examp001.pdb
+C:\HW2\helloworld2\Examp001\obj\Debug\net6.0\Examp001.genruntimeconfig.cache
+C:\HW2\helloworld2\Examp001\obj\Debug\net6.0\ref\Examp001.dll
